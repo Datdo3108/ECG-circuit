@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=1st Res (1) Pin=U1-2
+Removed Pin From Net: NetName=Vin1 Pin=U1-3
+Removed Pin From Net: NetName=Vs- Pin=U1-4
+Removed Pin From Net: NetName=Buffer (1) Pin=U1-6
+Removed Pin From Net: NetName=Vs+ Pin=U1-7
+Removed Pin From Net: NetName=2nd Res Pin=U2-1
+Removed Pin From Net: NetName=Buffer (1) Pin=U2-2
+Removed Pin From Net: NetName=Buffer (2) Pin=U2-3
+Removed Pin From Net: NetName=Vs- Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=Vout Pin=U2-6
+Removed Pin From Net: NetName=Vs+ Pin=U2-7
+Removed Pin From Net: NetName=NetR2_2 Pin=U2-8
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD8065ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO-8_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LT1920CS8%23PBF/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT1920CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LT1920CS8#PBF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LT1920CS8%23PBF/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1st Res (1) Pin=U1-2
+Added Pin To Net: NetName=Vin1 Pin=U1-3
+Added Pin To Net: NetName=Vs- Pin=U1-4
+Added Pin To Net: NetName=Buffer (1) Pin=U1-6
+Added Pin To Net: NetName=Vs+ Pin=U1-7
+Added Pin To Net: NetName=2nd Res Pin=U2-1
+Added Pin To Net: NetName=Buffer (1) Pin=U2-2
+Added Pin To Net: NetName=Buffer (2) Pin=U2-3
+Added Pin To Net: NetName=Vs- Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=Vout Pin=U2-6
+Added Pin To Net: NetName=Vs+ Pin=U2-7
+Added Pin To Net: NetName=NetR2_2 Pin=U2-8

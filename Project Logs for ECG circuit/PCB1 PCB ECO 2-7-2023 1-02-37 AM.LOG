@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=AD8065ARZ New DesignItemId=
+Change Component Library : Designator=U1 Old Library=AD8065ARZ.IntLib New Library=ECG circuit schematic_lib.SCHLIB
+Added Member To Class: ClassName=ECG circuit Member=Component U1 AD8065ARZ
+Added Member To Class: ClassName=ECG circuit Member=Component U2 LT1920CS8#PBF

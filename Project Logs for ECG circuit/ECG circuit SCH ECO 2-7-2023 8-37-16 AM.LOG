@@ -1,0 +1,12 @@
+Remove Pin=P4-1 From Net=Vin2
+Remove Pin=P6-1 From Net=Vout
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X2 New Footprint=HDR1X3
+Change Component Comment: Designator=R1 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R2 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R3 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R4 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R5 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R6 Old Comment= New Comment=Res1
+Change Component Comment: Designator=P4 Old Comment=Header 2 New Comment=Header 3
+Add Pin To Net: Pin=P4-2 Old Net=Vin1 New Net=Vout
+Change Pin Designator/Name:  Old Designator=P4-2 Old Name=2 New Designator =1 New Name=1
