@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZBHCTJLZ
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=ECG PCB.PcbLib
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [SearchPath1]
-Path=G:\(C) Admin\Altium\PCB_Project_1\ECG circuit1\*.*
+Path=G:\(C) Admin\Altium\ECG circuit\ECG circuit1\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]
