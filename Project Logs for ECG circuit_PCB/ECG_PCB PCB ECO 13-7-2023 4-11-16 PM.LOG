@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=10 amp (2nd) Pin=S2-1
+Removed Pin From Net: NetName=2nd Res Pin=S2-2
+Removed Pin From Net: NetName=100 amp (2nd) Pin=S2-3
+Removed Member From Class: ClassName=ECG circuit Member=S3
+Change Component Designator: OldDesignator=S3 NewDesignator=S2
+Added Pin To Net: NetName=10 amp (2nd) Pin=S2-1
+Added Pin To Net: NetName=100 amp (2nd) Pin=S2-2
+Added Pin To Net: NetName=2nd Res Pin=S2-3
+Added Room: Name=ECG circuit
