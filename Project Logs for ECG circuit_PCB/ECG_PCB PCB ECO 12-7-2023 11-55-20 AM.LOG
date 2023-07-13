@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=S1 Old Footprint=CAS220TA New Footprint=452403012014
+Change Component Footprint: Designator=S2 Old Footprint=CAS220TA New Footprint=452403012014
+Change Component Comment : Designator=S1 Old Comment=CAS-220TA New Comment=452403012014
+Change Component Comment : Designator=S2 Old Comment=CAS-220TA New Comment=452403012014
+Change component parameters: Designator = "S1" ("S1"); Footprint = "CAS220TA"; UniqueID = "\XUCNJPQI" ("\XUCNJPQI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/452403012014.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "452403012014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-452403012014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/452403012014?qs=DvsTirrhYfOi0QxHyAEO3w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "CAS220TA"; UniqueID = "\DTEKNGAJ" ("\DTEKNGAJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/452403012014.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "452403012014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-452403012014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/452403012014?qs=DvsTirrhYfOi0QxHyAEO3w%3D%3D"; VariantName = "[No Variations]"

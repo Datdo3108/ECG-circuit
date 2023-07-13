@@ -1,0 +1,3 @@
+Change Component Library : Designator=S1 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S2 Old Library=* New Library=SamacSys.SchLib
+Added Member To Class: ClassName=ECG circuit Member=Component R4 CRF0805-FZ-R002ELF

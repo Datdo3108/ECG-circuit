@@ -1,0 +1,185 @@
+Added Component: Designator=IC1(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LT1920IS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lt1920is8pbf/analog-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00091026.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.752mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT1920IS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT1920IS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT1920IS8PBF?qs=ytflclh7QUWOSod6PqfjSg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(1808213)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1808213/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1808213/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1808213?qs=iCzJi%2FIZBF7gczY%252BccInwA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(1808213)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1808213/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1808213/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1808213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1808213?qs=iCzJi%2FIZBF7gczY%252BccInwA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crf0805-fz-r002elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/CRF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRF0805-FZ-R002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CRF0805FZR002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CRF0805-FZ-R002ELF?qs=t7xnP681wgXcQ5vhBgw1Wg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S1(CAS220TA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com.tr/datasheet/2/972/cas-1628136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NIDEC COPAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CAS-220TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "229-CAS-220TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nidec-Copal/CAS-220TA?qs=XeJtXLiO41Tq8gHkPWHRfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S2(CAS220TA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com.tr/datasheet/2/972/cas-1628136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NIDEC COPAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CAS-220TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "229-CAS-220TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nidec-Copal/CAS-220TA?qs=XeJtXLiO41Tq8gHkPWHRfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD8065ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD8065ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD8065ARZ/Analog%20Devices%20Inc./view-part/48278/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1st Res (1) Pin=R4-2
+Added Pin To Net: NetName=1st Res (1) Pin=S1-2
+Added Pin To Net: NetName=1st Res (1) Pin=U1-2
+Added Net: Name=1st Res (1)
+Added Pin To Net: NetName=1st Res (2) Pin=R6-2
+Added Pin To Net: NetName=1st Res (2) Pin=S1-5
+Added Pin To Net: NetName=1st Res (2) Pin=U2-2
+Added Net: Name=1st Res (2)
+Added Pin To Net: NetName=2nd Res Pin=IC1-1
+Added Pin To Net: NetName=2nd Res Pin=S2-2
+Added Net: Name=2nd Res
+Added Pin To Net: NetName=10 amp (1) Pin=R1-1
+Added Pin To Net: NetName=10 amp (1) Pin=S1-1
+Added Net: Name=10 amp (1)
+Added Pin To Net: NetName=10 amp (2) Pin=R5-1
+Added Pin To Net: NetName=10 amp (2) Pin=S1-4
+Added Net: Name=10 amp (2)
+Added Pin To Net: NetName=10 amp (2nd) Pin=R2-1
+Added Pin To Net: NetName=10 amp (2nd) Pin=S2-1
+Added Net: Name=10 amp (2nd)
+Added Pin To Net: NetName=100 amp (2nd) Pin=R3-1
+Added Pin To Net: NetName=100 amp (2nd) Pin=S2-3
+Added Net: Name=100 amp (2nd)
+Added Pin To Net: NetName=Buffer (1) Pin=IC1-2
+Added Pin To Net: NetName=Buffer (1) Pin=R1-2
+Added Pin To Net: NetName=Buffer (1) Pin=S1-3
+Added Pin To Net: NetName=Buffer (1) Pin=U1-6
+Added Net: Name=Buffer (1)
+Added Pin To Net: NetName=Buffer (2) Pin=IC1-3
+Added Pin To Net: NetName=Buffer (2) Pin=R5-2
+Added Pin To Net: NetName=Buffer (2) Pin=S1-6
+Added Pin To Net: NetName=Buffer (2) Pin=U2-6
+Added Net: Name=Buffer (2)
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_8 Pin=R2-2
+Added Pin To Net: NetName=NetIC1_8 Pin=R3-2
+Added Net: Name=NetIC1_8
+Added Pin To Net: NetName=Vin1 Pin=J?-1
+Added Pin To Net: NetName=Vin1 Pin=U1-3
+Added Net: Name=Vin1
+Added Pin To Net: NetName=Vin2 Pin=J?-2
+Added Pin To Net: NetName=Vin2 Pin=U2-3
+Added Net: Name=Vin2
+Added Pin To Net: NetName=Vout Pin=IC1-6
+Added Pin To Net: NetName=Vout Pin=J?-3
+Added Net: Name=Vout
+Added Pin To Net: NetName=Vs+ Pin=IC1-7
+Added Pin To Net: NetName=Vs+ Pin=J1-1
+Added Pin To Net: NetName=Vs+ Pin=U1-7
+Added Pin To Net: NetName=Vs+ Pin=U2-7
+Added Net: Name=Vs+
+Added Pin To Net: NetName=Vs- Pin=IC1-4
+Added Pin To Net: NetName=Vs- Pin=J1-3
+Added Pin To Net: NetName=Vs- Pin=U1-4
+Added Pin To Net: NetName=Vs- Pin=U2-4
+Added Net: Name=Vs-
+Added Class: Name=ECG circuit
+Added Room: Name=ECG circuit
