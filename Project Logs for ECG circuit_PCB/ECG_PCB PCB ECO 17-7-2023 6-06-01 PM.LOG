@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Add Pin To Net: Unknown Pin: Pin P1-0
+Add Pin To Net: Unknown Pin: Pin P2-0
+Add Pin To Net: Unknown Pin: Pin P3-0
+Add Pin To Net: Unknown Pin: Pin P4-0
+Add Pin To Net: Unknown Pin: Pin P5-0
+Added Member To Class: ClassName=ECG circuit Member=Component P1 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P2 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P3 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P4 Pad
+Added Room: Name=ECG circuit

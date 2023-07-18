@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Vs- Pin=P7-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Added Component: Designator=P9(Pad)
+Added Component: Designator=P10(Pad)
+Added Component: Designator=P11(Pad)
+Added Component: Designator=P12(Pad)
+Added Pin To Net: NetName=Vs+ Pin=P7-0
+Added Pin To Net: NetName=Vs+ Pin=P8-0
+Added Pin To Net: NetName=Vs- Pin=P9-0
+Added Pin To Net: NetName=Vs- Pin=P10-0
+Added Pin To Net: NetName=Vs- Pin=P11-0
+Added Pin To Net: NetName=GND Pin=P12-0
+Added Member To Class: ClassName=ECG circuit Member=Component P9 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P10 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P11 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P12 Pad
+Added Room: Name=ECG circuit

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=P4-0
+Removed Pin From Net: NetName=Vs+ Pin=P6-0
+Removed Pin From Net: NetName=Vs+ Pin=P7-0
+Removed Pin From Net: NetName=Vs+ Pin=P8-0
+Removed Pin From Net: NetName=Vs- Pin=P9-0
+Removed Pin From Net: NetName=Vs- Pin=P11-0
+Removed Pin From Net: NetName=GND Pin=P12-0
+Removed Member From Class: ClassName=ECG circuit Member=P4
+Removed Member From Class: ClassName=ECG circuit Member=P6
+Removed Member From Class: ClassName=ECG circuit Member=P7
+Removed Member From Class: ClassName=ECG circuit Member=P8
+Removed Member From Class: ClassName=ECG circuit Member=P9
+Removed Member From Class: ClassName=ECG circuit Member=P11
+Removed Member From Class: ClassName=ECG circuit Member=P12
+Added Room: Name=ECG circuit

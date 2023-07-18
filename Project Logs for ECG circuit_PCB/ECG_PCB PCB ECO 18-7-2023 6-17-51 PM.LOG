@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=GND NewDesignator=P6
+Change Component Designator: OldDesignator=Power NewDesignator=J1
+Change Component Designator: OldDesignator=Vin1 NewDesignator=P1
+Change Component Designator: OldDesignator=Vin2 NewDesignator=P5
+Change Component Designator: OldDesignator=Vout NewDesignator=P2
+Change Component Designator: OldDesignator=Vs- NewDesignator=P3
+Change Component Designator: OldDesignator=Vs- NewDesignator=P4
+Added Component: Designator=P7(Pad)
+Added Pin To Net: NetName=GND Pin=P7-0
+Added Member To Class: ClassName=ECG circuit Member=Component P4 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P5 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P7 Pad
+Added Room: Name=ECG circuit

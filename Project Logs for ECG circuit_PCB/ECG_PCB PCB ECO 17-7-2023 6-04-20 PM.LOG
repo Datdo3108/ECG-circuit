@@ -1,0 +1,20 @@
+Added Component: Designator=P?(Pad)
+Added Component: Designator=P?(Pad)
+Added Component: Designator=P?(Pad)
+Added Component: Designator=P?(Pad)
+Added Component: Designator=P?(Pad)
+Add Pin To Net: Unknown Pin: Pin P?-0
+Add Pin To Net: Unknown Pin: Pin P?-0
+Add Pin To Net: Unknown Pin: Pin P?-0
+Add Pin To Net: Unknown Pin: Pin P?-0
+Add Pin To Net: Unknown Pin: Pin P?-0
+Added Member To Class: ClassName=ECG circuit Member=Component IC1 AD8065ARZ
+Added Member To Class: ClassName=ECG circuit Member=Component IC2 LT1920IS8#PBF
+Added Member To Class: ClassName=ECG circuit Member=Component IC3 AD8065ARZ
+Added Member To Class: ClassName=ECG circuit Member=Component P? Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P? Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P? Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P? Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P? Pad
+Added Member To Class: ClassName=ECG circuit Member=Component S2 CS-4-12YA
+Added Room: Name=ECG circuit

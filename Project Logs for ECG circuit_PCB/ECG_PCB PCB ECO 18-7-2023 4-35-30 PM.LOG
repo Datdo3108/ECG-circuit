@@ -1,0 +1,10 @@
+Added Component: Designator=P6(Pad)
+Added Component: Designator=P7(Pad)
+Added Component: Designator=P8(Pad)
+Added Pin To Net: NetName=Vs+ Pin=P6-0
+Added Pin To Net: NetName=Vs- Pin=P7-0
+Added Pin To Net: NetName=GND Pin=P8-0
+Added Member To Class: ClassName=ECG circuit Member=Component P6 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P7 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P8 Pad
+Added Room: Name=ECG circuit
