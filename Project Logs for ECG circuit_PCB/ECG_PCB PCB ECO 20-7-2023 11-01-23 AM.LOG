@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=GND NewDesignator=P6
+Change Component Designator: OldDesignator=GND NewDesignator=P7
+Change Component Designator: OldDesignator=Vin1 NewDesignator=P1
+Change Component Designator: OldDesignator=Vin2 NewDesignator=P5
+Change Component Designator: OldDesignator=Vout NewDesignator=P2
+Change Component Designator: OldDesignator=Vs- NewDesignator=P3
+Change Component Designator: OldDesignator=Vs- NewDesignator=P4
+Added Component: Designator=J1(1814922)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1814922"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1814922/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1814922/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1814922"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1814922"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1814922?qs=eTPcRhULBzxqa49Ua%252B87wQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vs+ Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=Vs- Pin=J1-3
+Added Member To Class: ClassName=ECG circuit Member=Component J1 1814922
+Added Member To Class: ClassName=ECG circuit Member=Component P3 Pad
+Added Member To Class: ClassName=ECG circuit Member=Component P7 Pad
+Added Room: Name=ECG circuit
