@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=Buffer Pin=R7-1
+Removed Pin From Net: NetName=Amp Pin=R7-2
+Removed Pin From Net: NetName=Vin Pin=R8-2
+Removed Pin From Net: NetName=Vin Pin=R9-2
+Removed Pin From Net: NetName=Vin Pin=R10-2
+Removed Pin From Net: NetName=Vin Pin=R11-2
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=RESC2013X50N
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=RESC2013X50N
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=RESC2013X50N
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=RESC2013X50N
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.3 New Footprint=RESC2013X50N
+Change Component Comment : Designator=R7 Old Comment=Res1 New Comment=RH73X2A10GNTN
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=RH73X2A10GNTN
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=RH73X2A10GNTN
+Change Component Comment : Designator=R10 Old Comment=Res1 New Comment=RH73X2A10GNTN
+Change Component Comment : Designator=R11 Old Comment=Res1 New Comment=RH73X2A10GNTN
+Change component parameters: Designator = "R7" ("R7"); Footprint = "AXIAL-0.3"; UniqueID = "\NDPRUQLU" ("\NDPRUQLU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "AXIAL-0.3"; UniqueID = "\ICFCMZPH" ("\ICFCMZPH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "AXIAL-0.3"; UniqueID = "\OQXSZYUF" ("\OQXSZYUF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "AXIAL-0.3"; UniqueID = "\LGIAVRYA" ("\LGIAVRYA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "AXIAL-0.3"; UniqueID = "\ZHVSPONL" ("\ZHVSPONL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2013X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73x2a10gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/2/RH73X2A10GNTN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A10GNTN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A10GNTN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A10GNTN?qs=ip69W3eHERU7YDrLGqSvdQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Amp Pin=R7-1
+Added Pin To Net: NetName=Buffer Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=Com Pin=R8-2
+Added Pin To Net: NetName=Vin Pin=R9-1
+Added Pin To Net: NetName=Vin Pin=R10-1
+Added Pin To Net: NetName=Vin Pin=R11-1
+Added Pin To Net: NetName=Vin Pin=R12-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=S4-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=S4-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=S4-6
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=S4-4
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R12 RH73X2A10GNTN
+Added Room: Name=ECG circuit
+Added Room: Name=LTC6268_circuit

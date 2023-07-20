@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R7 Old Footprint=6-0805_M New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R8 Old Footprint=6-0805_M New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R9 Old Footprint=6-0805_M New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R10 Old Footprint=6-0805_M New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R11 Old Footprint=6-0805_M New Footprint=AXIAL-0.3
+Added Component: Designator=P15(Pad)
+Added Pin To Net: NetName=GND Pin=P15-0
+Change Net Name : Old Net Name=NetIC4_3 New Net Name=Vin
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P15 Pad
+Added Room: Name=ECG circuit
+Added Room: Name=LTC6268_circuit

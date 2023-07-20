@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Buffer Pin=IC2-6
+Added Pin To Net: NetName=Buffer Pin=P2-0
+Change Net Name : Old Net Name=Amp New Net Name=NetR7_1
+Change Net Name : Old Net Name=Buffer New Net Name=Vout
+Change Net Name : Old Net Name=Com New Net Name=NetIC4_2
+Added Room: Name=ECG circuit
+Added Room: Name=LTC6268_circuit
