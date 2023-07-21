@@ -1,0 +1,7 @@
+Added Component: Designator=P20(Pad)
+Added Component: Designator=P21(Pad)
+Added Pin To Net: NetName=+1.5V Pin=P20-0
+Added Pin To Net: NetName=-1.5V Pin=P21-0
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P20 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P21 Pad
+Added Room: Name=LTC6268_circuit

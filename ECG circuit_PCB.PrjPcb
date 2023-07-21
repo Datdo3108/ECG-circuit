@@ -84,7 +84,7 @@ DocumentUniqueId=NGLTGAHM
 
 [Document3]
 DocumentPath=ECG circuit.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=10 amp (1) Pin=R7-1
+Added Pin To Net: NetName=10 amp (2) Pin=R11-1
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P12 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P13 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P15 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R8 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R9 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R10 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R11 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R12 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S4 CS-4-12YA
+Added Room: Name=LTC6268_circuit

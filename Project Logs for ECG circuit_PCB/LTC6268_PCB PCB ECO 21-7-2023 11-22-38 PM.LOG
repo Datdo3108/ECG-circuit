@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Buffer (1) Pin=IC5-2
+Removed Pin From Net: NetName=Buffer (2) Pin=IC5-3
+Added Pin To Net: NetName=Buffer (2) Pin=IC5-2
+Added Pin To Net: NetName=Buffer (1) Pin=IC5-3
+Added Room: Name=LTC6268_circuit

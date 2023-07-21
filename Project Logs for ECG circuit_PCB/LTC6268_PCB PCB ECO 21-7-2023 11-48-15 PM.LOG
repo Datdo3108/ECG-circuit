@@ -1,0 +1,4 @@
+Added Component: Designator=P19(Pad)
+Added Pin To Net: NetName=GND Pin=P19-0
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P19 Pad
+Added Room: Name=LTC6268_circuit
