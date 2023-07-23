@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Comment : Designator=R1 Old Comment=RH73X2A10GNTN New Comment=CRG0805F270R
+Change Component Comment : Designator=R5 Old Comment=RH73X2A10GNTN New Comment=CRG0805F270R
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC2013X50N"; UniqueID = "\GEKYQDPI" ("\GEKYQDPI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f270r/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC2013X50N"; UniqueID = "\BNDMTWSS" ("\BNDMTWSS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f270r/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CRG0805F270R"; VariantName = "[No Variations]"
+Added Room: Name=AD8065_circuit

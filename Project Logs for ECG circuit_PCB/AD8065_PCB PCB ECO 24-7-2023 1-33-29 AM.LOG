@@ -1,0 +1,5 @@
+Change Component Description : Designator=R7 Old Description=Resistor New Description=Resistor 10G
+Change Component Description : Designator=R12 Old Description=Resistor New Description=Resistor 10G
+Change Component Description : Designator=R8 Old Description=Resistor New Description=Resistor 50G
+Change Component Description : Designator=R11 Old Description=Resistor New Description=Resistor 50G
+Added Room: Name=AD8065_circuit

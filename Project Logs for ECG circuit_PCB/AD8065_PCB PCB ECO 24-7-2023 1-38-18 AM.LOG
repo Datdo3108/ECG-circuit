@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X50N New Footprint=RESC2013X65N
+Change Component Comment : Designator=R3 Old Comment=RH73X2A10GNTN New Comment=CRGH0805F20R
+Change Component Comment : Designator=R6 Old Comment=RH73X2A10GNTN New Comment=CRGH0805F20R
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC2013X50N"; UniqueID = "\LZKLUXQO" ("\LZKLUXQO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/12d7/0900766b812d7379.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH0805F20R?qs=9ylKvqdyudmw671oFSmSiA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC2013X50N"; UniqueID = "\UTKMWNVE" ("\UTKMWNVE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/12d7/0900766b812d7379.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH0805F20R?qs=9ylKvqdyudmw671oFSmSiA%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=AD8065_circuit
