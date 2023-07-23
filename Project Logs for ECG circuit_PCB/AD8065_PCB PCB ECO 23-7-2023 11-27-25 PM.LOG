@@ -1,0 +1,14 @@
+Added Component: Designator=S?(DS04254206BKSMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/670/ds04_254_smt-1777718.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DS04-254-2-06BK-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-DS04254206BK-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/DS04-254-2-06BK-SMT-TR?qs=wnTfsH77Xs6HyfCm%2FwvyaA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=AD8065_circuit Member=Component P7 Pad
+Added Member To Class: ClassName=AD8065_circuit Member=Component P10 Pad
+Added Member To Class: ClassName=AD8065_circuit Member=Component P11 Pad
+Added Member To Class: ClassName=AD8065_circuit Member=Component S? DS04-254-2-06BK-SMT-TR
+Added Room: Name=AD8065_circuit

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=10 amp (2) Pin=S1-1
+Removed Pin From Net: NetName=1st Res (2) Pin=S1-2
+Removed Pin From Net: NetName=Buffer (2) Pin=S1-3
+Removed Pin From Net: NetName=10 amp (1) Pin=S1-4
+Removed Pin From Net: NetName=1st Res (1) Pin=S1-5
+Removed Pin From Net: NetName=Buffer (1) Pin=S1-6
+Change Component Footprint: Designator=S1 Old Footprint=452403012014 New Footprint=JS202011SCQN
+Change Component Comment : Designator=S1 Old Comment=452403012014 New Comment=JS202011SCQN
+Added Pin To Net: NetName=10 amp (1) Pin=S1-1
+Added Pin To Net: NetName=1st Res (1) Pin=S1-2
+Added Pin To Net: NetName=Buffer (1) Pin=S1-3
+Added Pin To Net: NetName=Buffer (2) Pin=S1-4
+Added Pin To Net: NetName=1st Res (2) Pin=S1-5
+Added Pin To Net: NetName=10 amp (2) Pin=S1-6
+Added Room: Name=AD8065_circuit

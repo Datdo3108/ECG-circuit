@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Rg2 Pin=S5-1
+Removed Pin From Net: NetName=Rg1 Pin=S5-4
+Added Pin To Net: NetName=Rg1 Pin=S5-1
+Added Pin To Net: NetName=Rg2 Pin=S5-4
+Added Room: Name=AD8065_circuit

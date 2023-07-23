@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=10 amp (2) Pin=S1-1
+Removed Pin From Net: NetName=1st Res (2) Pin=S1-2
+Removed Pin From Net: NetName=Buffer (2) Pin=S1-3
+Removed Pin From Net: NetName=10 amp (1) Pin=S1-4
+Removed Pin From Net: NetName=1st Res (1) Pin=S1-5
+Removed Pin From Net: NetName=Buffer (1) Pin=S1-6
+Change Component Footprint: Designator=S1 Old Footprint=452403012014 New Footprint=JS202011SCQN
+Change Component Comment : Designator=S1 Old Comment=452403012014 New Comment=JS202011SCQN
+Change component parameters: Designator = "S1" ("S1"); Footprint = "452403012014"; UniqueID = "\IPVIYAIO" ("\IPVIYAIO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/js202011scqn/ck?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1422/js.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=10 amp (1) Pin=S1-1
+Added Pin To Net: NetName=1st Res (1) Pin=S1-2
+Added Pin To Net: NetName=Buffer (1) Pin=S1-3
+Added Pin To Net: NetName=Buffer (2) Pin=S1-4
+Added Pin To Net: NetName=1st Res (2) Pin=S1-5
+Added Pin To Net: NetName=10 amp (2) Pin=S1-6
+Added Member To Class: ClassName=AD8065_circuit Member=Component P7 Pad
+Added Member To Class: ClassName=AD8065_circuit Member=Component P10 Pad
+Added Member To Class: ClassName=AD8065_circuit Member=Component P11 Pad
+Added Room: Name=AD8065_circuit
