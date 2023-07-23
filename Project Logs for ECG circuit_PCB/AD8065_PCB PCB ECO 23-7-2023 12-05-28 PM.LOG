@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Added Pin To Net: NetName=+5V Pin=P4-0
+Added Pin To Net: NetName=-5V Pin=P5-0
+Added Pin To Net: NetName=+5V Pin=P6-0
+Added Pin To Net: NetName=-5V Pin=P7-0
+Added Pin To Net: NetName=+5V Pin=P9-0
+Added Pin To Net: NetName=-5V Pin=P10-0
+Added Member To Class: ClassName=AD8065_circuit Member=Component IC3 AD8065ARZ
+Added Room: Name=AD8065_circuit
