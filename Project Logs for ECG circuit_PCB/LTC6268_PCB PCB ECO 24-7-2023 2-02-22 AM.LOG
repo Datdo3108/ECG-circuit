@@ -1,0 +1,52 @@
+Added Component: Designator=S5(DS05127202BKSMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/digikeypdf/ds05-127-smt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DS05-127-2-02BK-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-DS05127202BK-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/DS05-127-2-02BK-SMT-TR?qs=wnTfsH77Xs6TIyf6yhikhg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-3
+Added Pin To Net: NetName=Rg1 Pin=S5-4
+Added Net: Name=Rg1
+Added Pin To Net: NetName=Rg2 Pin=S5-2
+Added Net: Name=Rg2
+Added Member To Class: ClassName=LTC6268_circuit Member=Component IC1 LTC6268IS8-10#PBF
+Added Member To Class: ClassName=LTC6268_circuit Member=Component IC2 LT1920IS8#PBF
+Added Member To Class: ClassName=LTC6268_circuit Member=Component IC3 LTC6268IS8-10#PBF
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P1 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P2 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P3 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P4 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P5 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P6 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P7 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P8 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P9 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P10 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P11 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P12 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P13 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component P14 Pad
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R1 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R2 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R3 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R4 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R5 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R6 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R7 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R8 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R9 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R10 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R11 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R12 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R13 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component R14 RH73X2A10GNTN
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S1 452403012014
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S2 CS-4-12YA
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S3 CS-7-14TB
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S4 CS-7-14TB
+Added Member To Class: ClassName=LTC6268_circuit Member=Component S5 DS05-127-2-02BK-SMT-TR
+Added Room: Name=LTC6268_circuit

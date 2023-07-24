@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=Rg1 Pin=R3-2
+Added Pin To Net: NetName=Rg2 Pin=R6-2
+Added Room: Name=LTC6268_circuit

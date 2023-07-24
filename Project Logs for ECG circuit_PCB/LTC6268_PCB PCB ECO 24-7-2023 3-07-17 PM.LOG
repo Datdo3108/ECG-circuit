@@ -1,0 +1,167 @@
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRG0805F4K7
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRG0805F270R
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRG0805F270R
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRG0805F330R
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRGH0805F20R
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RH73X2A10GNTN New DesignItemId=CRGH0805F20R
+Change Component DesignItemId : Designator=R9 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73H2A100MKTN
+Change Component DesignItemId : Designator=R14 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73H2A100MKTN
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73W2A1GNTN
+Change Component DesignItemId : Designator=R13 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73W2A1GNTN
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73X2A50GNTN
+Change Component DesignItemId : Designator=R11 Old DesignItemId=RH73X2A10GNTN New DesignItemId=RH73X2A50GNTN
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R4 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X50N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50N New Footprint=RESC2013X65N
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X50N New Footprint=RESC2013X65N
+Change Component Comment : Designator=R7 Old Comment=RH73X2A10GNTN New Comment=
+Change Component Comment : Designator=R12 Old Comment=RH73X2A10GNTN New Comment=
+Change Component Comment : Designator=R2 Old Comment=RH73X2A10GNTN New Comment=CRG0805F4K7
+Change Component Comment : Designator=R1 Old Comment=RH73X2A10GNTN New Comment=CRG0805F270R
+Change Component Comment : Designator=R5 Old Comment=RH73X2A10GNTN New Comment=CRG0805F270R
+Change Component Comment : Designator=R4 Old Comment=RH73X2A10GNTN New Comment=CRG0805F330R
+Change Component Comment : Designator=R3 Old Comment=RH73X2A10GNTN New Comment=CRGH0805F20R
+Change Component Comment : Designator=R6 Old Comment=RH73X2A10GNTN New Comment=CRGH0805F20R
+Change Component Comment : Designator=R9 Old Comment=RH73X2A10GNTN New Comment=RH73H2A100MKTN
+Change Component Comment : Designator=R14 Old Comment=RH73X2A10GNTN New Comment=RH73H2A100MKTN
+Change Component Comment : Designator=R10 Old Comment=RH73X2A10GNTN New Comment=RH73W2A1GNTN
+Change Component Comment : Designator=R13 Old Comment=RH73X2A10GNTN New Comment=RH73W2A1GNTN
+Change Component Comment : Designator=R8 Old Comment=RH73X2A10GNTN New Comment=RH73X2A50GNTN
+Change Component Comment : Designator=R11 Old Comment=RH73X2A10GNTN New Comment=RH73X2A50GNTN
+Change Component Description : Designator=R10 Old Description=Resistor New Description=Resistor 1G
+Change Component Description : Designator=R13 Old Description=Resistor New Description=Resistor 1G
+Change Component Description : Designator=R2 Old Description=Resistor New Description=Resistor 4.7k
+Change Component Description : Designator=R3 Old Description=Resistor New Description=Resistor 20
+Change Component Description : Designator=R6 Old Description=Resistor New Description=Resistor 20
+Change Component Description : Designator=R8 Old Description=Resistor New Description=Resistor 50G
+Change Component Description : Designator=R11 Old Description=Resistor New Description=Resistor 50G
+Change Component Description : Designator=R9 Old Description=Resistor New Description=Resistor 100M
+Change Component Description : Designator=R14 Old Description=Resistor New Description=Resistor 100M
+Change Component Description : Designator=R1 Old Description=Resistor New Description=Resistor 270
+Change Component Description : Designator=R5 Old Description=Resistor New Description=Resistor 270
+Change Component Description : Designator=R4 Old Description=Resistor New Description=Resistor 330
+Change Component Library : Designator=R1 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R3 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R4 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R5 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R6 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R7 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R8 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R9 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R10 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R11 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R12 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R13 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R14 Old Library=* New Library=SamacSys.SchLib
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC2013X50N"; UniqueID = "\NDPRUQLU" ("\NDPRUQLU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f270r/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC2013X50N"; UniqueID = "\WSJTJQXT" ("\WSJTJQXT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F4K7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f4k7/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F4K7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F4K7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRG0805F4K7?qs=VHcS2MTj4gYTCl8bEMP1DQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC2013X50N"; UniqueID = "\ICFCMZPH" ("\ICFCMZPH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/12d7/0900766b812d7379.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH0805F20R?qs=9ylKvqdyudmw671oFSmSiA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC2013X50N"; UniqueID = "\AKGSURWB" ("\AKGSURWB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F330R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f330r/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F330R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F330R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRG0805F330R?qs=VHcS2MTj4gbLzLJ0%2FI3gmA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC2013X50N"; UniqueID = "\DXSBGPOS" ("\DXSBGPOS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crg0805f270r/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1623109%7FBA%7Fpdf%7FEnglish%7FENG_CD_1623109_BA.pdf%7F1623109-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CRG0805F270R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC2013X50N"; UniqueID = "\GOCDIYDK" ("\GOCDIYDK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/12d7/0900766b812d7379.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CRGH0805F20R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH0805F20R?qs=9ylKvqdyudmw671oFSmSiA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC2013X50N"; UniqueID = "\LGIAVRYA" ("\LGIAVRYA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773268%7FA%7Fpdf%7FEnglish%7FENG_DS_1773268_A.pdf%7F1625862-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A50GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A50GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A50GNTN?qs=ip69W3eHERVWqEnkYPnkdA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC2013X50N"; UniqueID = "\ZHVSPONL" ("\ZHVSPONL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73h2a100mktn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773268%7FA%7Fpdf%7FEnglish%7FENG_DS_1773268_A.pdf%7F1625856-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73H2A100MKTN?qs=ip69W3eHERW4mrE8f49Fxw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC2013X50N"; UniqueID = "\QLNVZQNA" ("\QLNVZQNA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73w2a1gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RH73W2A1GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73W2A1GNTN?qs=ip69W3eHERV4S8tLXHYflA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC2013X50N"; UniqueID = "\UDQADGQN" ("\UDQADGQN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773268%7FA%7Fpdf%7FEnglish%7FENG_DS_1773268_A.pdf%7F1625862-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73X2A50GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73X2A50GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73X2A50GNTN?qs=ip69W3eHERVWqEnkYPnkdA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC2013X50N"; UniqueID = "\AJAKPFQW" ("\AJAKPFQW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73w2a1gntn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RH73W2A1GNTN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73W2A1GNTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73W2A1GNTN?qs=ip69W3eHERV4S8tLXHYflA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC2013X50N"; UniqueID = "\KQGNJCXO" ("\KQGNJCXO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rh73h2a100mktn/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773268%7FA%7Fpdf%7FEnglish%7FENG_DS_1773268_A.pdf%7F1625856-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-RH73H2A100MKTN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/RH73H2A100MKTN?qs=ip69W3eHERW4mrE8f49Fxw%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=LTC6268_circuit
